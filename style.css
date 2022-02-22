@@ -90,3 +90,9 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+
+/*  experience-container*/
+
+.experience-container{
+    display: flex;
+}
